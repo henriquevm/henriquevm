@@ -2,8 +2,6 @@
 
 Meu nome é Henrique, estou me dedicado a melhorar o planeta e a vida das pessoas por meio da tecnologia. Tenho experiência em desenvolvimento de software e gestão de produtos digitais, sempre focando em criar soluções inovadoras e de impacto.
 
-Atualmente, estou interessado em expandir meu conhecimento na área de Web3. Estou participando de comunidades, eventos e hackathons, pois acredito que a descentralização pode trazer impactos positivos para a sociedade.
-
 ---
 
 ### 🛠️ Habilidades
